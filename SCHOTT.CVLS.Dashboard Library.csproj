@@ -15,19 +15,17 @@
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
     <PlatformTarget>x86</PlatformTarget>
-    <OutputPath>bin\SCHOTT.CVLS Debug\</OutputPath>
+    <OutputPath>bin\SCHOTT.CVLS.Dashboard Debug\</OutputPath>
     <UseVSHostingProcess>false</UseVSHostingProcess>
     <DefineConstants>
     </DefineConstants>
-    <DocumentationFile>
-    </DocumentationFile>
+    <DocumentationFile>bin\SCHOTT.CVLS.Dashboard Debug\SCHOTT.CVLS.Dashboard.XML</DocumentationFile>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
     <PlatformTarget>x86</PlatformTarget>
-    <OutputPath>bin\SCHOTT.CVLS\</OutputPath>
+    <OutputPath>bin\SCHOTT.CVLS.Dashboard\</OutputPath>
     <UseVSHostingProcess>false</UseVSHostingProcess>
-    <DocumentationFile>
-    </DocumentationFile>
+    <DocumentationFile>bin\SCHOTT.CVLS.Dashboard\SCHOTT.CVLS.Dashboard.XML</DocumentationFile>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="SCHOTT.Core, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
