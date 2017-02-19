@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<package >
+	<metadata>
+		<id>SCHOTT.CVLS.Dashboard</id>
+		<version>1.0.0</version>
+		<title>SCHOTT.CVLS.Dashboard Library</title>
+		<authors>jgvicke</authors>
+		<owners>jgvicke</owners>
+		<licenseUrl>https://github.com/SCHOTTNorthAmerica/SCHOTT.CVLS.Dashboard/blob/master/Licenses/SCHOTT.CVLS.Dashboard%20License%20-%20MIT.txt</licenseUrl>
+		<projectUrl>https://github.com/SCHOTTNorthAmerica/SCHOTT.CVLS.Dashboard</projectUrl>
+		<iconUrl>https://avatars0.githubusercontent.com/u/23213816?v=3&amp;s=200</iconUrl>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<description>A Dashboard Plugin interface used by SCHOTT CV-LS products.</description>
+		<releaseNotes>Initial Release</releaseNotes>
+		<copyright>Copyright 2016</copyright>
+		<tags>SCHOTT CVLS Dashboard</tags>
+		<dependencies>
+			<dependency id="SCHOTT.CVLS" version="1.0.0" />
+			<dependency id="SCHOTT.WinForms" version="1.0.0" />
+		</dependencies>
+	</metadata>
+	<files>
+		<file src="bin\SCHOTT.CVLS.Dashboard\SCHOTT.CVLS.Dashboard.dll" target="lib\net35\SCHOTT.CVLS.Dashboard.dll" />
+		<file src="bin\SCHOTT.CVLS.Dashboard\SCHOTT.CVLS.Dashboard.xml" target="lib\net35\SCHOTT.CVLS.Dashboard.xml" />
+	</files>
+</package>
