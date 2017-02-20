@@ -28,16 +28,16 @@
     <DocumentationFile>bin\SCHOTT.CVLS.Dashboard\SCHOTT.CVLS.Dashboard.XML</DocumentationFile>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="SCHOTT.Core, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
-      <HintPath>..\..\..\packages\SCHOTT.Core.1.0.0\lib\net35\SCHOTT.Core.dll</HintPath>
+    <Reference Include="SCHOTT.Core, Version=1.0.2.0, Culture=neutral, processorArchitecture=x86">
+      <HintPath>..\..\..\packages\SCHOTT.Core.1.0.2\lib\net35\SCHOTT.Core.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="SCHOTT.CVLS, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
-      <HintPath>..\..\..\packages\SCHOTT.CVLS.1.0.0\lib\net35\SCHOTT.CVLS.dll</HintPath>
+    <Reference Include="SCHOTT.CVLS, Version=1.0.1.0, Culture=neutral, processorArchitecture=x86">
+      <HintPath>..\..\..\packages\SCHOTT.CVLS.1.0.1\lib\net35\SCHOTT.CVLS.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="SCHOTT.WinForms, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
-      <HintPath>..\..\..\packages\SCHOTT.WinForms.1.0.0\lib\net35\SCHOTT.WinForms.dll</HintPath>
+    <Reference Include="SCHOTT.WinForms, Version=1.0.1.0, Culture=neutral, processorArchitecture=x86">
+      <HintPath>..\..\..\packages\SCHOTT.WinForms.1.0.1\lib\net35\SCHOTT.WinForms.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="System" />

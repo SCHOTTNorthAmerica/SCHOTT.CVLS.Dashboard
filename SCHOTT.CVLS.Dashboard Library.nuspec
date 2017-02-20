@@ -2,7 +2,7 @@
 <package >
 	<metadata>
 		<id>SCHOTT.CVLS.Dashboard</id>
-		<version>1.0.0</version>
+		<version>1.0.1</version>
 		<title>SCHOTT.CVLS.Dashboard Library</title>
 		<authors>jgvicke</authors>
 		<owners>jgvicke</owners>
@@ -11,12 +11,12 @@
 		<iconUrl>https://avatars0.githubusercontent.com/u/23213816?v=3&amp;s=200</iconUrl>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
 		<description>A Dashboard Plugin interface used by SCHOTT CV-LS products.</description>
-		<releaseNotes>Initial Release</releaseNotes>
+		<releaseNotes>Bug Fix: Updated dependency on SCHOTT.Core library to deal with different versions of .Net</releaseNotes>
 		<copyright>Copyright 2016</copyright>
 		<tags>SCHOTT CVLS Dashboard</tags>
 		<dependencies>
-			<dependency id="SCHOTT.CVLS" version="1.0.0" />
-			<dependency id="SCHOTT.WinForms" version="1.0.0" />
+			<dependency id="SCHOTT.CVLS" version="1.0.1" />
+			<dependency id="SCHOTT.WinForms" version="1.0.1" />
 		</dependencies>
 	</metadata>
 	<files>
