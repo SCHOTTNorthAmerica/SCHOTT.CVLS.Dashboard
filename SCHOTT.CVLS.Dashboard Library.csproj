@@ -29,22 +29,22 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="SCHOTT.Core, Version=1.0.2.0, Culture=neutral, processorArchitecture=x86">
-      <HintPath>..\..\..\packages\SCHOTT.Core.1.0.2\lib\net35\SCHOTT.Core.dll</HintPath>
+      <HintPath>packages\SCHOTT.Core.1.0.2\lib\net35\SCHOTT.Core.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="SCHOTT.CVLS, Version=1.0.1.0, Culture=neutral, processorArchitecture=x86">
-      <HintPath>..\..\..\packages\SCHOTT.CVLS.1.0.1\lib\net35\SCHOTT.CVLS.dll</HintPath>
+      <HintPath>packages\SCHOTT.CVLS.1.0.1\lib\net35\SCHOTT.CVLS.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="SCHOTT.WinForms, Version=1.0.1.0, Culture=neutral, processorArchitecture=x86">
-      <HintPath>..\..\..\packages\SCHOTT.WinForms.1.0.1\lib\net35\SCHOTT.WinForms.dll</HintPath>
+      <HintPath>packages\SCHOTT.WinForms.1.0.1\lib\net35\SCHOTT.WinForms.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Drawing" />
     <Reference Include="System.Threading, Version=1.0.2856.102, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
-      <HintPath>..\..\..\packages\TaskParallelLibrary.1.0.2856.0\lib\Net35\System.Threading.dll</HintPath>
+      <HintPath>packages\TaskParallelLibrary.1.0.2856.0\lib\Net35\System.Threading.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="System.Windows.Forms" />
@@ -53,7 +53,7 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
     <Reference Include="WeifenLuo.WinFormsUI.Docking, Version=2.13.0.0, Culture=neutral, PublicKeyToken=5cded1a1a0a7b481, processorArchitecture=MSIL">
-      <HintPath>..\..\..\packages\DockPanelSuite.2.13.0\lib\net35-client\WeifenLuo.WinFormsUI.Docking.dll</HintPath>
+      <HintPath>packages\DockPanelSuite.2.13.0\lib\net35-client\WeifenLuo.WinFormsUI.Docking.dll</HintPath>
       <Private>True</Private>
     </Reference>
   </ItemGroup>
